@@ -1,4 +1,6 @@
-# Coffee Sales and Customer Analysis
+# Coffee Sales SQL Project
+
+![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
 
 ## Project Overview
 This project analyzes coffee sales data across different cities, assesses customer behavior, and determines the performance of coffee products. Insights are generated from various analyses, including sales revenue, customer segmentation, product performance, and city-specific analysis.
